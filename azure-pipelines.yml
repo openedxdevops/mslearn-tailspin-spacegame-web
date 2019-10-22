@@ -1,3 +1,2 @@
-steps:
 pool:
-  vmImage: 'Ubuntu-16.04'
+  name: 'Ubuntu-16.04'
